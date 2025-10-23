@@ -1,3 +1,0 @@
-C:/Users/DELL/Desktop/pl0/cmake-build-debug/CMakeFiles/pl0.dir
-C:/Users/DELL/Desktop/pl0/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/DELL/Desktop/pl0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
